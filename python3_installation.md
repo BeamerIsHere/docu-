@@ -1,4 +1,4 @@
-#Python 3 Installation - Steps
+# Python 3 Installation - Steps
 
 - Step 1 : Go to the desired installation location. 
 	```cd /usr/src```
