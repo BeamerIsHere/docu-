@@ -1,0 +1,18 @@
+<!-- docu/_sidebar.md -->
+
+- [Home](/)
+- [Linux Administration](linux_administration.md)
+- [Ansible Working](ansible_playbook_working.md)
+- [R-Administration](r-administration.md)
+- [Server Monitoring and Alerts](server-monitoring-and-alerts.md)
+- [Mounting Issue Resolution](Troubleshooting_frequent_mounting_issue.md)
+- [Useful Links](useful-links.md)
+- [Schedule Cron Job](schedule_cronjob.md)
+- [RStudio Loadbalancing](Rstudio_load_balancing.md)
+- [RStudio Administration](rstudio-administration.md)
+- [Python3 Installation](python3_installation.md)
+- [Java Dependency Issue](java-dependencie-issue.md)
+- [Shiny Server](updating_shiny_server.md)
+- []()
+- []()
+- []()
